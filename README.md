@@ -10,6 +10,7 @@ The best model should be the one that evaluates to have the lowest RMSE overall,
 [Here is a link to the dataset](https://www.kaggle.com/mohansacharya/graduate-admissions/tasks?taskId=6)
 
 **Work Flow**
+
 we first created several EDA notebooks and tried to carry out feature selection of the predictors, by carrying out a backward elimination process to determine the weight of coefficients.
 
 Based on the analysis from the EDA several Linear and Tree based models were created, and the best performing mopdel on the test data was selected.
